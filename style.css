@@ -1,0 +1,57 @@
+body {
+    background-color: #d1dee0;
+}
+#subscribe {
+    padding: 5px 20px 5px 20px;
+}
+#avatar {
+    border-radius: 100px;
+    border: solid black 2px;
+    margin: 0px 0px 10px 0px;
+}
+.main-header {
+    margin: 20px 0px 20px 0px;
+}
+.content {
+    padding: 0px 5px 0px 5px;
+}
+#hi {
+    margin: 0px 0px 20px 0px;
+}
+.attribute {
+    text-align: right;
+}
+.project {
+    margin: 0px 0px 20px 0px;
+}
+h5 {
+    margin: 0px 0px 20px 0px;
+    color: #17a2b8;
+}
+i {
+    color: #17a2b8;
+}
+a {
+    color: #17a2b8;
+}
+a:hover {
+    color: #17a2b8;
+}
+.btn-link {
+    color:#17a2b8;
+}
+.btn-link:hover {
+    color: #17a2b8;
+}
+.content {
+    padding: 20px;
+}
+.footer {
+    color: #17a2b8;
+}
+.no-underline:hover {
+    text-decoration: none;
+}
+.needborder {
+    border: solid 1px black;
+}
