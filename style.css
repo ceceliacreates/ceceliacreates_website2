@@ -17,6 +17,8 @@ body {
 }
 #hi {
     margin: 0px 0px 20px 0px;
+    font-family: 'Patrick Hand', sans-serif;
+    font-size: 350%;
 }
 .attribute {
     text-align: right;
